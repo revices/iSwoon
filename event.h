@@ -1,6 +1,6 @@
 /*	File name:	event.h
 	Description:	Event class for the iSwoon program.
-	Authors:	Brumbaugh, Danielle; Hall, Andrew; Knoop, Rebeccah;	Schnitzler, Scott
+	Authors:	Hall, Andrew
 	Assignment #5:	Group #6	*/
 #ifndef EVENT_H
 #define EVENT_H

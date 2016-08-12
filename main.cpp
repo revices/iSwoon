@@ -1,6 +1,6 @@
 /*	File name:	main.cpp
 	Description:	The client file for the iSwoon program.
-	Authors:	Brumbaugh, Danielle; Hall, Andrew; Knoop, Rebeccah;	Schnitzler, Scott
+	Authors:	Hall, Andrew
 	Assignment #5:	Group #6	*/
 #include "date.h"
 
